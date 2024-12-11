@@ -1,0 +1,18 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Archivos temporales creados por el sistema o el IDE
+.Python
+env/
+venv/
+.venv/
+.env/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos creados por Jupyter Notebook
+.ipynb_checkpoints/
